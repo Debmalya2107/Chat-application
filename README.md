@@ -3,7 +3,7 @@
 A simple real-time chat application built with **Node.js**, **Express**, and **Socket.IO**.  
 Users can join chat rooms, send messages, and see messages from others instantly.  
 Messages are styled like WhatsApp with chat bubbles, timestamps, and auto-scroll.
-
+ Demo- https://chat-application-1-p539.onrender.com
 ---
 
 ## 🚀 Features
