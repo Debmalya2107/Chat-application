@@ -33,5 +33,4 @@ chat-app/
 ├── index.html # Chat UI
 └── style.css # Styling
 
-yaml
-Copy code
+
